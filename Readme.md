@@ -47,7 +47,3 @@ Our vision is to revolutionize the educational content industry by:
 Contract ID:STFKBWBQQ0BQECZRC42ECCPB72WDP3JTFFGGJWRZ.EducationalContentNFTs
 ![alt text](image.png)
 **Network**: Stacks Mainnet  
-**Contract Address**: [To be added after deployment]  
-**Deployer Address**: [To be added after deployment]  
-**Deployment Block**: [To be added after deployment]  
-**Transaction ID**: [To be added after deployment]
