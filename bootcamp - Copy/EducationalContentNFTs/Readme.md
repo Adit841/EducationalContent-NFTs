@@ -45,7 +45,8 @@ Our vision is to revolutionize the educational content industry by:
 
 ## Contract Address Details
 Contract ID:STFKBWBQQ0BQECZRC42ECCPB72WDP3JTFFGGJWRZ.EducationalContentNFTs
-![alt text](image.png)
+<img width="1901" height="681" alt="image" src="https://github.com/user-attachments/assets/ac7b3c99-51e9-4fd7-998e-836478cce7da" />
+
 **Network**: Stacks Mainnet  
 **Contract Address**: [To be added after deployment]  
 **Deployer Address**: [To be added after deployment]  
